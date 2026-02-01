@@ -12,7 +12,7 @@ title: Shuhan Yang - Personal Homepage
 
 ## 🎓 Education
 
-* **Johns Hopkins University** | Ph.D. in Mathematics | 2023 – Expected 2028
+* **Johns Hopkins University** | Ph.D. in Mathematics | 2023 – Expected 2027
     * **Focus:** PDEs, Machine Learning, Probability, Financial Mathematics, Econometrics
     * **GPA:** A
 * **Nanjing University** | B.S. in Mathematics | 2019 – 2023
@@ -22,41 +22,39 @@ title: Shuhan Yang - Personal Homepage
 
 ## 🛠 Skills
 
-* **Programming:** Python (PyTorch, scikit-learn), Linux, C++, SQL, $LaTeX$, Excel
-* **Mathematics & ML:** Probability, Stochastic Processes, Convex Optimization, Machine Learning, Deep Learning, Reinforcement Learning
-* **Finance:** Advanced Derivatives Theory, Fixed Income Analytics, Portfolio Optimization, Risk Management (VaR, CVaR)
-* **Certifications:** CFA Level I
+* **Finance & Markets:** * Advanced derivatives theory, fixed income analytics, portfolio optimization, risk management (VaR, CVaR)
+    * **Domain Expertise:** Commodity Futures, Power/Electricity Markets, Energy Economics, and Carbon Pricing
+    * **Certification:** CFA Level II Candidate (Feb 2026)
+* **Trading & Tools:** * Order book dynamics, execution algorithms, high-frequency trading
+    * Bloomberg Terminal, cloud platforms, Microsoft Office
+* **Programming & Math:** * Python (PyTorch, scikit-learn, Qlib), C++, SQL, $LaTeX$
+    * Probability, Stochastic Processes, Convex Optimization, Deep Learning, Reinforcement Learning
 
 ---
 
 ## 🔬 Research
 
-* **Transformer-based In-Context Learning and Adaptive Modeling**
-    * Researched how Transformers perform implicit Bayesian inference and adapt to new tasks from contextual data.
 * **Quantitative Quermassintegral Inequalities**
-    * Developed new Alexandrov-Fenchel-type inequalities for nearly spherical sets under $C^1$ perturbations. 
+    * Developed new Alexandrov-Fenchel-type inequalities for nearly spherical sets under $C^1$ perturbations.
     * **[Preprint: arXiv:2511.21943](https://arxiv.org/html/2511.21943v1#S5)**
+* **Transformer-based In-Context Learning and Adaptive Modeling**
+    * Researched how Transformers perform implicit Bayesian inference and adapt to new tasks.
 * **Stochastic Geometry & Data Science**
-    * Proved the adaption of intrinsic dimensions to STIT tessellations (random spatial partitioning model).
+    * Proved the adaption of intrinsic dimensions to STIT tessellations.
 
 ---
 
 ## 💼 Project Experience
 
-* **Machine Learning in Finance (2025)**
+* **Congestion Revenue Rights (CRR) & Power Market Arbitrage**
+    * Developed an arbitrage strategy and case study for CRR futures in electricity markets.
+    * Conducted analysis on carbon pricing and energy derivative dynamics.
+* **Machine Learning in Finance**
     * Applied Gradient Boosted Trees and LSTMs to equity return prediction using WRDS/Bloomberg data.
-* **Congestion Revenue Rights (CRR) Arbitrage Strategy**
-    * Developed a trading strategy and Jupyter Notebook for futures arbitrage analysis.
-* **Path-Dependent Option Pricing (2024)**
-    * Developed pricing models for Lookback & Asian options using stochastic calculus and Monte Carlo benchmarks.
-* **AI Optimization (Tencent, 2023)**
-    * Integrated variational methods and PDE-based optimization to address algorithmic challenges in large-scale training.
-
----
-
-## 🏫 Teaching
-
-* **Teaching Assistant (TA):** Differential Equations (Section 1) | Spring 2026
+* **Mortgage Prepayment Modeling**
+    * Developed and parameterized models for mortgage-backed securities (MBS) prepayment analysis.
+* **Path-Dependent Option Pricing**
+    * Developed pricing models for Lookback & Asian options using stochastic calculus.
 
 ---
 
