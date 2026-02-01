@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 杨舒瀚 - 个人主页
+description: JHU数学博士生｜PDE/概率/机器学习/量化金融｜研究与项目主页
 ---
 
 <script>
@@ -14,7 +15,7 @@ title: 杨舒瀚 - 个人主页
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
 
-[English](index) | [中文版]
+[English](index) | 中文版
 
 # 杨舒瀚 (Shuhan Yang)
 
