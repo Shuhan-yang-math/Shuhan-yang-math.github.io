@@ -47,15 +47,26 @@ title: Shuhan Yang - Personal Homepage
 
 ## 💼 Project Experience
 
+* **Applied Variational Methods and Convex Analysis in AI Optimization (Tencent, 2023)**
+    * Integrated variational methods and PDE-based optimization to address algorithmic challenges in Tencent AI research.
+    * Improved efficiency and stability, reducing convergence time by $~20\%$ in large-scale training tasks.
+    * Contributed to robust, mathematically grounded AI solutions with direct applicability to production ML systems.
+
+* **Machine Learning in Finance (2025)**
+    * Applied advanced ML methods (Gradient Boosted Trees, LSTMs) to equity return prediction and volatility forecasting using WRDS/Bloomberg data.
+    * Integrated feature engineering (technical indicators, PCA) with model selection, achieving $15–20\%$ higher out-of-sample accuracy vs. ARIMA/GARCH benchmarks.
+    * Demonstrated improvements in risk-adjusted portfolio allocation, highlighting the value of ML in quantitative finance applications.
+
 * **Congestion Revenue Rights (CRR) & Power Market Arbitrage**
     * Developed an arbitrage strategy and case study for CRR futures in electricity markets.
-    * Conducted analysis on carbon pricing and energy derivative dynamics.
-* **Machine Learning in Finance**
-    * Applied Gradient Boosted Trees and LSTMs to equity return prediction using WRDS/Bloomberg data.
-* **Mortgage Prepayment Modeling**
-    * Developed and parameterized models for mortgage-backed securities (MBS) prepayment analysis.
-* **Path-Dependent Option Pricing**
-    * Developed pricing models for Lookback & Asian options using stochastic calculus.
+    * Analyzed carbon pricing and energy derivative dynamics through data-driven modeling.
+
+* **Path-Dependent Option Pricing (Lookback & Asian Options, 2024)**
+    * Developed pricing models for lookback and Asian options using stochastic calculus and financial engineering.
+    * Derived closed-form formulas and implemented Python models, achieving pricing errors $<2\%$ vs. Monte Carlo benchmarks.
+
+* **Mortgage Prepayment Modeling (2026)**
+    * Developed and parameterized models for mortgage-backed securities (MBS) prepayment analysis, focusing on parameter interpretation and model robustness.
 
 ---
 
