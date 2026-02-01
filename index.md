@@ -23,7 +23,7 @@ title: Shuhan Yang - Personal Homepage
 
 ## 🎓 Education
 
-* **Johns Hopkins University** | Ph.D. in Mathematics | 2023 – Expected 2027
+* **Johns Hopkins University** | Ph.D. in Mathematics | 2023 – Expected 2028
     * **Focus:** PDEs, Machine Learning, Probability, Financial Mathematics, Econometrics
     * **GPA:** A
 * **Nanjing University** | B.S. in Mathematics | 2019 – 2023
