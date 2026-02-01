@@ -39,10 +39,9 @@ title: Shuhan Yang - Personal Homepage
 * **Quantitative Quermassintegral Inequalities**
     * Developed new Alexandrov-Fenchel-type inequalities for nearly spherical sets under $C^1$ perturbations.
     * **[Preprint: arXiv:2511.21943](https://arxiv.org/html/2511.21943v1#S5)**
-* **Transformer-based In-Context Learning and Adaptive Modeling**
-    * Researched how Transformers perform implicit Bayesian inference and adapt to new tasks.
 * **Stochastic Geometry & Data Science**
-    * Proved the adaption of intrinsic dimensions to STIT tessellations.
+    * Proved the adaption of intrinsic dimensions to STIT tessellations (random spatial partitioning model).
+    * Derived optimal theoretical results and translated them into applications for high-dimensional data analysis and spatial modeling.
 
 ---
 
