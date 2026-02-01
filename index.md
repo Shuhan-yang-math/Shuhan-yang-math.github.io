@@ -14,6 +14,8 @@ title: Shuhan Yang - Personal Homepage
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
 
+[English] | [中文版](zh)
+
 # Shuhan Yang
 
 📍 Baltimore, MD, USA | ✉️ [shyangmath@gmail.com](mailto:shyangmath@gmail.com)
