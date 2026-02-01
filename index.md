@@ -96,6 +96,21 @@ title: Shuhan Yang - Personal Homepage
 
 ---
 
+## 🚀 Incoming Experience
+
+* **Incoming Quantitative Researcher Intern** | Hongqiang Taihe Fund Management Co., Ltd. | **Shanghai, China** | April 2026 – June 2026
+    * **Anticipated Focus:**
+        * **Market Microstructure:** Research and development of high-frequency alpha factors by leveraging LOB and transaction data.
+        * **Systematic Alpha Discovery:** Utilize evolutionary computation and heuristic-driven frameworks to automate the mining of effective trading factors.
+        * **Predictive Modeling:** Application of advanced ensemble methods and deep learning architectures for signal filtering and return forecasting.
+
+* **Incoming Quantitative Researcher Intern** | Braeswood Carbon Management  | **San Francisco, USA** | June 2026 – September 2026
+    * **Anticipated Focus:**
+        * **ML-Driven Strategy Design:** Leverage historical datasets and machine learning to architect, backtest, and optimize systematic trading strategies.
+        * **Quantitative Decision Support:** Apply statistical learning to assist traders in strategy refinement, execution logic, and data-driven decision making.
+          
+---
+
 ## 🏫 Teaching Experience
 
 **Johns Hopkins University | Graduate Teaching Assistant**
