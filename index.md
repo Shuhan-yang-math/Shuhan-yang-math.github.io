@@ -12,7 +12,7 @@ title: Shuhan Yang - Personal Homepage
 
 ## 🎓 Education
 
-* **Johns Hopkins University** | Ph.D. in Mathematics | 2023 – Expected 2028
+* **Johns Hopkins University** | Ph.D. in Mathematics | 2023 – Expected 2027
     * **Focus:** PDEs, Machine Learning, Probability, Financial Mathematics, Econometrics
     * **GPA:** A
 * **Nanjing University** | B.S. in Mathematics | 2019 – 2023
@@ -32,11 +32,12 @@ title: Shuhan Yang - Personal Homepage
 ## 🔬 Research
 
 * **Transformer-based In-Context Learning and Adaptive Modeling**
-    * Researched how Transformers perform implicit Bayesian inference and adapt to new tasks.
+    * Researched how Transformers perform implicit Bayesian inference and adapt to new tasks from contextual data.
 * **Quantitative Quermassintegral Inequalities**
-    * Developed new Alexandrov-Fenchel-type inequalities for nearly spherical sets.
+    * Developed new Alexandrov-Fenchel-type inequalities for nearly spherical sets under $C^1$ perturbations. 
+    * **[Preprint: arXiv:2511.21943](https://arxiv.org/html/2511.21943v1#S5)**
 * **Stochastic Geometry & Data Science**
-    * Proved the adaption of intrinsic dimensions to STIT tessellations.
+    * Proved the adaption of intrinsic dimensions to STIT tessellations (random spatial partitioning model).
 
 ---
 
@@ -47,9 +48,15 @@ title: Shuhan Yang - Personal Homepage
 * **Congestion Revenue Rights (CRR) Arbitrage Strategy**
     * Developed a trading strategy and Jupyter Notebook for futures arbitrage analysis.
 * **Path-Dependent Option Pricing (2024)**
-    * Developed pricing models for Lookback & Asian options using stochastic calculus.
+    * Developed pricing models for Lookback & Asian options using stochastic calculus and Monte Carlo benchmarks.
 * **AI Optimization (Tencent, 2023)**
-    * Integrated variational methods and PDE-based optimization to address algorithmic challenges.
+    * Integrated variational methods and PDE-based optimization to address algorithmic challenges in large-scale training.
+
+---
+
+## 🏫 Teaching
+
+* **Teaching Assistant (TA):** Differential Equations (Section 1) | Spring 2026
 
 ---
 
