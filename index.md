@@ -5,7 +5,9 @@ title: Shuhan Yang - Personal Homepage
 
 <script type="text/javascript" async
   src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
-</script># Shuhan Yang
+</script>
+
+# Shuhan Yang
 
 📍 Baltimore, MD, USA | ✉️ [shyangmath@gmail.com](mailto:shyangmath@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/shuhan-yang-52732125b) | 💻 [GitHub](https://github.com/Shuhan-yang-math)
