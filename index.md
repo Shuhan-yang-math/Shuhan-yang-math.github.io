@@ -37,7 +37,7 @@ title: Shuhan Yang - Personal Homepage
     * **Data Structures & Algorithms**
 * **Mathematics & ML:** * Probability, Stochastic Processes, Convex Optimization
     * Machine Learning, Deep Learning, Reinforcement Learning, **Large Language Models (LLMs)**
-    * **Finance:** * Advanced derivatives theory, fixed income analytics, portfolio optimization, risk management (VaR, CVaR)
+* **Finance:** Advanced derivatives theory, fixed income analytics, portfolio optimization, risk management (VaR, CVaR)
     * **Domain Expertise:** Commodity Futures, Power/Electricity Markets, Energy Economics, Carbon Pricing
     * **Certification:** CFA Level I
 * **Trading & Tools:** * Order book dynamics, execution algorithms, high-frequency trading
