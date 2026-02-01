@@ -87,9 +87,6 @@ title: Shuhan Yang - Personal Homepage
     * Developed pricing models for lookback and Asian options using stochastic calculus and financial engineering.
     * Derived closed-form formulas and implemented Python models, achieving pricing errors $< 2\%$ vs. Monte Carlo benchmarks.
 
-* **Mortgage Prepayment Modeling (2026)**
-    * Developed and parameterized models for mortgage-backed securities (MBS) prepayment analysis, focusing on parameter interpretation and model robustness.
-
 ---
 
 ## 🏫 Teaching Experience
