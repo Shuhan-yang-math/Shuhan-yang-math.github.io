@@ -5,24 +5,54 @@ title: Shuhan Yang - Personal Homepage
 
 # Shuhan Yang
 
-**约翰斯·霍普金斯大学 (JHU) | 应用数学系 | 博士在读 (G3)**
-
-[Email](mailto:你的邮箱) | [GitHub](https://github.com/Shuhan-yang-math) | [LinkedIn](你的领英链接)
+📍 Baltimore, MD, USA | ✉️ [shyangmath@gmail.com](mailto:shyangmath@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/shuhan-yang-52732125b) | 💻 [GitHub](https://github.com/Shuhan-yang-math)
 
 ---
 
-## 🎓 教育背景
-* **约翰斯·霍普金斯大学 (JHU)** | 应用数学博士在读 | 2023 - 至今
-    * **研究方向：** 偏微分方程 (PDE)、曲率流 (Curvature Flows)、k-Hessian 方程。
+## 🎓 Education
 
-## 🔬 研究与项目
-* **量化金融：** * [CRR 期货套利模型](https://github.com/Shuhan-yang-math/MA_Arbitrage_Shuhan)：基于 Python 开发的套利策略分析。
-    * 抵押贷款提前还款模型 (Mortgage Prepayment Model) 开发与参数分析。
-* **数学理论：** * 专注于等周不等式、亚历山德罗夫-巴克尔曼-普奇 (ABP) 方法及其在几何深度的应用。
+* **Johns Hopkins University** | Ph.D. in Mathematics | 2023 – Expected 2027
+    * **Focus:** PDEs, Machine Learning, Probability, Financial Mathematics, Econometrics
+    * **GPA:** A
+* **Nanjing University** | B.S. in Mathematics | 2019 – 2023
+    * **GPA:** 94/100 | First Prize (twice), Chinese National College Student Mathematics Competition
 
-## 🏫 教学经历
-* **课程助教 (TA)：** 微分方程 (Differential Equations Section 1) | 2026 春季学期
+---
 
-## 🛠 技术栈
-* **编程语言：** Python (PyTorch, scikit-learn, Qlib), $LaTeX$
-* **核心能力：** 衍生品定价、算法交易、金融数据分析、数值分析
+## 🛠 Skills
+
+* **Programming:** Python (PyTorch, scikit-learn), C++, SQL, $LaTeX$, Excel
+* **Mathematics & ML:** Probability, Stochastic Processes, Convex Optimization, Deep Learning, Reinforcement Learning
+* **Finance:** Advanced Derivatives Theory, Fixed Income Analytics, Portfolio Optimization, Risk Management (VaR, CVaR)
+* **Certifications:** CFA Level II (Feb 2026)
+
+---
+
+## 🔬 Research
+
+* **Transformer-based In-Context Learning and Adaptive Modeling**
+    * Researched how Transformers perform implicit Bayesian inference and adapt to new tasks.
+* **Quantitative Quermassintegral Inequalities**
+    * Developed new Alexandrov-Fenchel-type inequalities for nearly spherical sets.
+* **Stochastic Geometry & Data Science**
+    * Proved the adaption of intrinsic dimensions to STIT tessellations.
+
+---
+
+## 💼 Project Experience
+
+* **Machine Learning in Finance (2025)**
+    * Applied Gradient Boosted Trees and LSTMs to equity return prediction using WRDS/Bloomberg data.
+* **Congestion Revenue Rights (CRR) Arbitrage Strategy**
+    * Developed a trading strategy and Jupyter Notebook for futures arbitrage analysis.
+* **Path-Dependent Option Pricing (2024)**
+    * Developed pricing models for Lookback & Asian options using stochastic calculus.
+* **AI Optimization (Tencent, 2023)**
+    * Integrated variational methods and PDE-based optimization to address algorithmic challenges.
+
+---
+
+## 🏫 Teaching
+
+* **Teaching Assistant (TA):** Differential Equations (Section 1) | Spring 2026
