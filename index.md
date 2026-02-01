@@ -22,10 +22,10 @@ title: Shuhan Yang - Personal Homepage
 
 ## 🛠 Skills
 
-* **Programming:** * Python (PyTorch, scikit-learn, Qlib), C++, SQL, $LaTeX$
+* **Programming:** * Python (PyTorch, scikit-learn, Qlib), C++, SQL, $LaTeX$, **Linux (Bash/Shell)**
     * **Data Structures & Algorithms**
 * **Mathematics & ML:** * Probability, Stochastic Processes, Convex Optimization
-    * Deep Learning, Reinforcement Learning, Geometric Deep Learning
+    * Deep Learning, Reinforcement Learning, **Geometric Deep Learning**
 * **Finance:** * Advanced derivatives theory, fixed income analytics, portfolio optimization, risk management (VaR, CVaR)
     * **Domain Expertise:** Commodity Futures, Power/Electricity Markets, Energy Economics, Carbon Pricing
     * **Certification:** CFA Level II Candidate (Feb 2026)
