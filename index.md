@@ -40,14 +40,13 @@ title: Shuhan Yang - Personal Homepage
 ---
 
 ### **🧠 Mathematics & Machine Learning**
-* **Math Theory:** Probability, Stochastic Processes, Convex Optimization
+* **Math Theory:** Partial Differential Equations, Probability, Stochastic Processes, Convex Optimization, Mathematical Finance
 * **AI/ML:** Machine Learning, Deep Learning, Reinforcement Learning, **Large Language Models (LLMs)**
-* **Specialization:** Geometric Deep Learning (related to Curvature Flows research)
 
 ---
 
 ### **📈 Finance & Trading**
-* **Core Finance:** Advanced derivatives theory, fixed income analytics, portfolio optimization, risk management ($VaR, CVaR$)
+* **Core Finance:** Advanced derivatives theory, fixed income analytics, portfolio management, investment science, risk management ($VaR, CVaR$)
 * **Domain Expertise:** **Commodity Futures, Power/Electricity Markets, Energy Economics, Carbon Pricing**
 * **Trading & Tools:** Order book dynamics, execution algorithms, high-frequency trading
 * **Software:** Bloomberg Terminal, cloud platforms, Microsoft Office
@@ -60,7 +59,7 @@ title: Shuhan Yang - Personal Homepage
 * **Quantitative Quermassintegral Inequalities**
     * Developed new Alexandrov-Fenchel-type inequalities for nearly spherical sets under $C^1$ perturbations.
     * **[Preprint: arXiv:2511.21943](https://arxiv.org/html/2511.21943v1#S5)**
-* **Stochastic Geometry & Data Science**
+* **Stochastic Geometry & Machine Learning**
     * Proved the adaption of intrinsic dimensions to STIT tessellations (random spatial partitioning model).
     * Derived optimal theoretical results and translated them into applications for high-dimensional data analysis and spatial modeling.
 
