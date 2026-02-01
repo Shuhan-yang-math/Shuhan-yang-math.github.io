@@ -61,7 +61,7 @@ title: Shuhan Yang - Personal Homepage
 
 * **Applied Variational Methods and Convex Analysis in AI Optimization (Tencent, 2023)**
     * Integrated variational methods and PDE-based optimization to address algorithmic challenges in Tencent AI research.
-    * Improved efficiency and stability, reducing convergence time by $~20\%$ in large-scale training tasks.
+    * Improved efficiency and stability, reducing convergence time by $\sim 20\%$ in large-scale training tasks.
     * Contributed to robust, mathematically grounded AI solutions with direct applicability to production ML systems.
 
 * **Machine Learning in Finance (2025)**
@@ -75,7 +75,7 @@ title: Shuhan Yang - Personal Homepage
 
 * **Path-Dependent Option Pricing (Lookback & Asian Options, 2024)**
     * Developed pricing models for lookback and Asian options using stochastic calculus and financial engineering.
-    * Derived closed-form formulas and implemented Python models, achieving pricing errors $<2\%$ vs. Monte Carlo benchmarks.
+    * Derived closed-form formulas and implemented Python models, achieving pricing errors $< 2\%$ vs. Monte Carlo benchmarks.
 
 * **Mortgage Prepayment Modeling (2026)**
     * Developed and parameterized models for mortgage-backed securities (MBS) prepayment analysis, focusing on parameter interpretation and model robustness.
