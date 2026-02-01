@@ -33,15 +33,25 @@ title: Shuhan Yang - Personal Homepage
 
 ## 🛠 Skills
 
-* **Programming:** * Python (PyTorch, scikit-learn, Qlib), C++, SQL, $LaTeX$, **Linux (Bash/Shell)**
-    * **Data Structures & Algorithms**
-* **Mathematics & ML:** * Probability, Stochastic Processes, Convex Optimization
-    * *Machine Learning, Deep Learning, Reinforcement Learning, **Large Language Models (LLMs)**
-* **Finance:** Advanced derivatives theory, fixed income analytics, portfolio optimization, risk management (VaR, CVaR)
-    * **Domain Expertise:** Commodity Futures, Power/Electricity Markets, Energy Economics, Carbon Pricing
-    * **Certification:** CFA Level I
-* **Trading & Tools:** * Order book dynamics, execution algorithms, high-frequency trading
-    * Bloomberg Terminal, cloud platforms, Microsoft Office
+### **💻 Programming & Systems**
+* **Languages:** Python (PyTorch, scikit-learn, Qlib), C++, SQL, $\LaTeX$, **Linux (Bash/Shell)**
+* **Core CS:** **Data Structures & Algorithms**
+
+---
+
+### **🧠 Mathematics & Machine Learning**
+* **Math Theory:** Probability, Stochastic Processes, Convex Optimization
+* **AI/ML:** Machine Learning, Deep Learning, Reinforcement Learning, **Large Language Models (LLMs)**
+* **Specialization:** Geometric Deep Learning (related to Curvature Flows research)
+
+---
+
+### **📈 Finance & Trading**
+* **Core Finance:** Advanced derivatives theory, fixed income analytics, portfolio optimization, risk management ($VaR, CVaR$)
+* **Domain Expertise:** **Commodity Futures, Power/Electricity Markets, Energy Economics, Carbon Pricing**
+* **Trading & Tools:** Order book dynamics, execution algorithms, high-frequency trading
+* **Software:** Bloomberg Terminal, cloud platforms, Microsoft Office
+* **Certification:** **CFA Level I**
 
 ---
 
