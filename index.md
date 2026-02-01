@@ -81,6 +81,12 @@ title: Shuhan Yang - Personal Homepage
 
 ---
 
-## 🏫 Teaching
+## 🏫 Teaching Experience
 
-* **Teaching Assistant (TA):** Differential Equations (Section 1) | Spring 2026
+**Johns Hopkins University | Graduate Teaching Assistant**
+
+* **Mathematical Foundation of Data Science*** **Differential Equations**
+* **Riemannian Geometry**
+* **Differential Equations**
+* **Complex Analysis**
+* **Calculus**
