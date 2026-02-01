@@ -16,7 +16,7 @@ title: 杨舒瀚 - 个人主页
 
 [English](index) | [中文版]
 
-# 杨舒涵 (Shuhan Yang)
+# 杨舒瀚 (Shuhan Yang)
 
 📍 美国，马里兰州，巴尔的摩 | ✉️ [shyangmath@gmail.com](mailto:shyangmath@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/shuhan-yang-52732125b) | 💻 [GitHub](https://github.com/Shuhan-yang-math)
