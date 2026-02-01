@@ -78,8 +78,10 @@ title: Shuhan Yang - Personal Homepage
     * Demonstrated improvements in risk-adjusted portfolio allocation, highlighting the value of ML in quantitative finance applications.
 
 * **Congestion Revenue Rights (CRR) & Power Market Arbitrage**
-    * Developed an arbitrage strategy and case study for CRR futures in electricity markets.
-    * Analyzed carbon pricing and energy derivative dynamics through data-driven modeling.
+    * Conducted a **quantitative historical simulation** of the "ERCOT Structural Congestion Arbitrage (ESCA)" strategy, generating a **simulated net profit of $\$5.77$ million**.
+    * Results over a 25-month backtest period showed an effective **CAGR of $28.76\%$**.
+    * Demonstrated strong market neutrality in testing, with a low correlation of **$0.21$** to underlying energy prices and an average simulated profit of **$\$5.40$ / MWh**.
+    * Validated the strategy's **structural robustness**, with **$66\%$** of simulated alpha originating from standard "Mid-Price" environments, reducing reliance on extreme volatility events.
 
 * **Path-Dependent Option Pricing (Lookback & Asian Options, 2024)**
     * Developed pricing models for lookback and Asian options using stochastic calculus and financial engineering.
