@@ -29,7 +29,7 @@ title: Shuhan Yang - Personal Homepage
     * **Focus:** PDEs, Machine Learning, Probability, Financial Mathematics, Econometrics
     * **GPA:** A
 * **Nanjing University** | B.S. in Mathematics | 2019 – 2023
-    * **GPA:** 94/100 | First Prize (twice), Chinese National College Student Mathematics Competition
+    * **GPA:** 94/100 | **Outstanding Graduate**, First Prize (twice), Chinese National College Student Mathematics Competition
 
 ---
 
