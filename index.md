@@ -25,7 +25,7 @@ title: Shuhan Yang - Personal Homepage
 * **Programming:** Python (PyTorch, scikit-learn), Linux, C++, SQL, $LaTeX$, Excel
 * **Mathematics & ML:** Probability, Stochastic Processes, Convex Optimization, Machine Learning, Deep Learning, Reinforcement Learning
 * **Finance:** Advanced Derivatives Theory, Fixed Income Analytics, Portfolio Optimization, Risk Management (VaR, CVaR)
-* **Certifications:** CFA Level II (Feb 2026)
+* **Certifications:** CFA Level I
 
 ---
 
