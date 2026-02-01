@@ -93,7 +93,8 @@ title: Shuhan Yang - Personal Homepage
 
 **Johns Hopkins University | Graduate Teaching Assistant**
 
-* **Mathematical Foundation of Data Science*** **Differential Equations**
+* **Mathematical Foundation of Data Science**
+* **Differential Equations**
 * **Riemannian Geometry**
 * **Differential Equations**
 * **Complex Analysis**
